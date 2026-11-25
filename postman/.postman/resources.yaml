@@ -1,0 +1,10 @@
+# Use this workspace to collaborate
+workspace:
+  id: 9590ada9-89f7-4086-8fa2-648bd0ccc9e7
+
+localResources:
+  collections:
+    - ../PrestaControl API
+  environments:
+    - ../PrestaControl.postman_environment.json
+    - ../PrestaControl - Local Environment.environment.yaml
